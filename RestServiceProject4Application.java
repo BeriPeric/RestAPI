@@ -11,5 +11,3 @@ public class RestServiceProject4Application {
 	}
 
 }
-
-
